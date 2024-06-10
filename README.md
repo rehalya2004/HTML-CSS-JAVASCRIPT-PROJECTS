@@ -22,7 +22,7 @@ JavaScript - It is a programming language that enables interactive and dynamic c
 
 ![image](https://github.com/rehalya2004/HTML-CSS-JAVASCRIPT-PROJECTS/assets/94946567/0ff1af92-92e0-4536-9eee-ddaaaec7f12e)
 
-- **Kerala Diaries **: Explore the essence of Kerala with a webpage showcasing its unique specialties and cultural highlights.
+- **Kerala Diaries**: Explore the essence of Kerala with a webpage showcasing its unique specialties and cultural highlights.
 
 ![image](https://github.com/rehalya2004/HTML-CSS-JAVASCRIPT-PROJECTS/assets/94946567/bf79ed40-95aa-4156-af3c-657cfb865ae1)
 
