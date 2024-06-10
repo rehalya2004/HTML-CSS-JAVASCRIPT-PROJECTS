@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+  <title>Drawing App</title>
+</head>
+<body>
+  <div class="container">
+
+    <h1 style="font-family:cursive; font-size: 40px; color: rgb(161, 18, 18);">CREATIVE CANVAS </h1>
+    <H2 style="color: rgb(143, 158, 5);">Unleash Your Creativity, One Stroke at a Time</H2>
+
+    <canvas id="canvas" width="800" height="500"></canvas>
+
+    <BR>
+
+    <div class="toolbar">
+      <input type="color" id="colorPicker" />
+      <select id="brushShape">
+        <option value="circle">Circle</option>
+        <option value="square">Square</option>
+      </select>
+      <button id="decreaseSize" class="btn">-</button>
+      <span id="brushSize" class="badge">10</span>
+      <button id="increaseSize" class="btn">+</button>
+      <button id="clearCanvas" class="btn btn-danger">Clear</button>
+      <button id="download" class="btn btn-success">Download</button>
+    </div>
+
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

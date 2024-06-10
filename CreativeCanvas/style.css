@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  background-image: url("https://t4.ftcdn.net/jpg/02/14/31/63/360_F_214316329_vX8WM2z1DLYfzcyRxqOenc9SJV7gXOyJ.jpg"); 
+  background-size:cover;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.toolbar {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  background-color: rgb(105, 66, 15);
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  
+}
+
+.toolbar > * {
+  margin-right: 10px;
+}
+
+.btn {
+  padding: 8px 16px;
+  background-color: #fff;
+  border: none;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.btn:hover {
+  background-color: #eee;
+}
+
+.btn-danger {
+  background-color: #ff69b4;
+  color: #fff;
+}
+
+.btn-success {
+  background-color: #34c759;
+  color: #fff;
+}
+
+.badge {
+  font-size: 1rem;
+  padding: 5px 10px;
+  background-color: #333;
+  color: #fff;
+  border-radius: 5px;
+}
+
+canvas {
+  border: 10px solid rgb(105, 66, 15);
+  width: 800px;
+  height: 500px;
+  cursor: crosshair;
+  background-color: #fcfffd;
+
+}
