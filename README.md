@@ -11,7 +11,8 @@ Projects:
 ---------
 
 - Birthday Wish : A charming webpage featuring a cute gift box and heartfelt wishes, perfect for sending your best regards.
-- ![image](https://github.com/rehalya2004/HTML-CSS-JAVASCRIPT-PROJECTS/assets/94946567/b2fbe928-9846-4080-aa2a-b7c1c89229e9)
+![image](https://github.com/rehalya2004/HTML-CSS-JAVASCRIPT-PROJECTS/assets/94946567/f3e673dc-9cc7-4672-bd41-5be46f79f084)
+
 
 - Creative Canvas : A webpage featuring an interactive whiteboard where users can draw and download their creations.
 - Fund Tracker : An intuitive fund tracker webpage designed for social works, allowing users to view total funds, remaining funds, dispersed funds, and transaction history.
