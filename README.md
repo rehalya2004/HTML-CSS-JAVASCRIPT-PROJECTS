@@ -10,9 +10,11 @@ JavaScript - It is a programming language that enables interactive and dynamic c
 Projects:
 ---------
 
-Birthday Wish : A charming webpage featuring a cute gift box and heartfelt wishes, perfect for sending your best regards.
-- Creative Canvas:** A webpage featuring an interactive whiteboard where users can draw and download their creations.
-- Fund Tracker:** An intuitive fund tracker webpage designed for social works, allowing users to view total funds, remaining funds, dispersed funds, and transaction history.
-- Kerala Diaries:** Explore the essence of Kerala with a webpage showcasing its unique specialties and cultural highlights.
-- Sign-in & Sign-up:** A snow-themed sign-in and sign-up page with frosty graphics and snowflakes for a wintry user experience.
+- Birthday Wish : A charming webpage featuring a cute gift box and heartfelt wishes, perfect for sending your best regards.
+- ![image](https://github.com/rehalya2004/HTML-CSS-JAVASCRIPT-PROJECTS/assets/94946567/b2fbe928-9846-4080-aa2a-b7c1c89229e9)
+
+- Creative Canvas : A webpage featuring an interactive whiteboard where users can draw and download their creations.
+- Fund Tracker : An intuitive fund tracker webpage designed for social works, allowing users to view total funds, remaining funds, dispersed funds, and transaction history.
+- Kerala Diaries : Explore the essence of Kerala with a webpage showcasing its unique specialties and cultural highlights.
+- Sign-in & Sign-up : A snow-themed sign-in and sign-up page with frosty graphics and snowflakes for a wintry user experience.
 
